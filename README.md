@@ -18,7 +18,8 @@ vue3+vite+vue-router+apifox+mockjs+element-plus+nvm+nrm
 8.  针对游客做了路由的守卫。
 
 ## 演示图
-![Uploading image.png…]()
+(https://github.com/user-attachments/assets/a48ba7e5-d1c1-43a8-9058-c776ec6e1a89)
+
 
 
 
